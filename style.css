@@ -1,0 +1,65 @@
+#titulo {
+    color: tomato;
+}
+
+body {
+    color: rgb(24, 44, 133);
+    border-radius: 50;
+}
+
+p.texto{
+    color:rgb(3, 7, 243);
+}
+
+p.especial{
+    color:rgb(93, 170, 74)
+}
+
+/* p{
+    color: aquamarine;
+}   */
+
+div p{
+    color:rgb(0, 214, 252)
+}
+
+div h2, div h3{
+    color:brown;
+}
+
+* {
+    font-size:24px;
+    color:black;
+    
+}
+/*esto es un comentario*/
+
+/*
+esto es un comentario
+que tiene
+muuuuchas
+lineas
+*/
+
+/* .color {
+
+
+    color: rgb(7, 241, 39);
+} */
+
+.color {
+    border: 5px red outset;}
+/*
+    dotted
+    dashed
+    solid
+    double
+    groove
+    ridget
+    outset
+    none
+    hidden
+    /*
+    
+    
+    
